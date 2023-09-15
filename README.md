@@ -7,3 +7,4 @@
 * [UK Biobank primary care data information](https://biobank.ndph.ox.ac.uk/showcase/showcase/docs/primary_care_data.pdf)
 * [UK Biobank primary care ontologies and xmaps](https://biobank.ctsu.ox.ac.uk/crystal/field.cgi?id=42040)
 * [Vanderbildt phecode definitions v. 1.2](https://phewascatalog.org/phecodes_icd10cm)
+* [NHS Digital information on Read codes](https://digital.nhs.uk/services/terminology-and-classifications/read-codes)
